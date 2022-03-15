@@ -1,0 +1,6 @@
+dist
+**/*.js
+/test/**
+node_modules/
+./node_modules/**
+**/node_modules/**
